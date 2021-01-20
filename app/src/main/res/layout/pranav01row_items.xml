@@ -20,7 +20,7 @@
             android:id="@+id/imageView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:src="@drawable/user_dp"
+            android:src="@drawable/pranav01user_dp"
             app:layout_constraintDimensionRatio="H,1:1"
             android:scaleType="centerCrop"/>
     </androidx.cardview.widget.CardView>
@@ -76,7 +76,7 @@
             android:layout_gravity="right"
             android:layout_marginRight="8dp"
             android:layout_weight="2"
-            android:background="@drawable/no_of_msgs"
+            android:background="@drawable/pranav01no_of_msgs"
             android:gravity="center"
             android:text="6"
             android:textColor="@android:color/white"
